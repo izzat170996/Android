@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="vespas_name">Nama Vespa</string>
+    <string name="detail">Detail</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="halaman_detail">Halaman Detail</string>
+    <string name="halaman_about">Halaman About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
